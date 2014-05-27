@@ -1,0 +1,3 @@
+acme_store_homepage:
+    pattern:  /testmongo
+    defaults: { _controller: AcmeStoreBundle:Default:create }
